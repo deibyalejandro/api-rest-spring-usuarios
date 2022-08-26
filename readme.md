@@ -11,9 +11,10 @@ Rest Full Api para crear usuarios y modelos.
 ### Iniciar la aplicación 
 Asegurarse de tener
 Java 11 + 
+Postman
 
 ### Agregar la configuración de la base en applicacitons.properties 
-This step is necessary
+Este paso es necesario
 
 /src/main/resources/application.properties
 
@@ -26,11 +27,11 @@ Actualiza las siguientes propiedades
 #### Ejecutalo
 usar mvn para ejecutar
 
-Windows example:
+En windows:
 
     mvnw.cmd spring-boot:run
 
-Unix based:
+Sistemas basados en Unix:
 
     mvwn spring-boot:run 
 
